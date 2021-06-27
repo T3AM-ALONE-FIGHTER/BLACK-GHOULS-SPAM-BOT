@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FYukkiBot%2FYukkiMultiSpamBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FT3AM-ALONE-FIGHTER%2FBLACK-GHOULS-SPAM-BOT)
 
 You can Use these [API ID and API HASH](https://t.me/BLACK_GHOULS_OP_SPAM) while deploying
 
@@ -13,7 +13,7 @@ You can Use these [API ID and API HASH](https://t.me/BLACK_GHOULS_OP_SPAM) while
 No Requirement of API ID and API HASH
 
    - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@YukkiBot/YukkiSpamBot)
-   - Termux : `sh -c "$(curl -fsSL https://da.gd/YukkiBot)"` (Use `python string_session.py` next time to generate another string.)
+   - Termux : `sh -c "$(curl -fsSL https://da.gd/black)"` (Use `python string_session.py` next time to generate another string.)
 
 
 ## Support Group
